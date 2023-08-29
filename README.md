@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taylorly
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning python
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
