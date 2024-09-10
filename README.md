@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taylorly
-- 👀 I’m interested in web development
+- 👀 I’m interested in phsyical computing and data viz
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
